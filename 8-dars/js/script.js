@@ -16,21 +16,50 @@
 //     console.log("Cartoon")           
 //  }
 
-const svetafor  = prompt("Svetafor rangini kiriting va qaysi rangda nima bo'lishini bilib oling")
-switch(svetafor){
-    case "red":
-        console.log("car stopped")
-        break;
-        case "yellow":
-            console.log("car slowly run");
-            break;
-            case "green":
+// const svetafor  = prompt("Svetafor rangini kiriting va qaysi rangda nima bo'lishini bilib oling")
+// switch(svetafor){
+//     case "red":
+//         console.log("car stopped")
+//         break;
+//         case "yellow":
+//             console.log("car slowly run");
+//             break;
+//             case "green":
                 
-                console.log("Car runnning");
-                break;
-                default:
-                    console.log("car smashshed")
-                    break;
-}
+//                 console.log("Car runnning");
+//                 break;
+//                 default:
+//                     console.log("car smashshed")
+//                     break;
+// }
 
 // tapada biz switch case shar operatoridan foydalandik switch ase har doim qatiy rejimda ishlaydi unutmang;
+
+
+// const Fasl = prompt("Fasilni kiriting va qaysi fasilda qanday oy borligini biling")
+
+// switch (Fasl) {
+//     case "decabr":
+//         case "yanvar":
+//             case "fevral":
+//         console.log("Qish")
+//         break;
+//         case "mart":
+//             case "aprel":
+//                 case "may":
+//         console.log("Bahor")
+//         break;
+//         case "iyun":
+//             case "iyul":
+//             case "avgust":
+//             console.log(" Yoz")
+//             break;
+//             case "sentyabr":
+//                 case "oktyabr":
+//                     case "noyabr":
+//             console.log("Kuz")
+//             break;
+//     default:
+//         console.log("Siz Kiritgan oy hali yoq , qachonlardir bo'lishiga umit qilamiz!!")
+//         break;
+// }
